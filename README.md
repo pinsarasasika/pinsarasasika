@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Web development and UI/UX Designing
 - 🌱 I’m currently learning BSc(Hons) Artificial Intelligence
 - 💞️ I’m looking to collaborate on Any kind of UI/UX or Web Dev projects
-- 📫 Reach me pinsara.company.site
+- 📫 Reach me pinsarasasika.netlify.app
 
 <!---
 pinsarasasika/pinsarasasika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

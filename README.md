@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./banner.png" alt="Pinsara Sasika Banner" width="100%">
+</p>
+
+<br>
+
 <div align="center">
 
 # 👋 Hi, I'm Pinsara Sasika

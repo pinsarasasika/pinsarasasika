@@ -12,7 +12,7 @@
 
 Building intelligent software, AI-powered automation, and modern web experiences.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Agent+Developer;Full+Stack+Developer;Next.js+Developer;UI%2FUX+Designer;Building+the+Future+with+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Agent+Developer;Full+Stack+Developer;Next.js+Developer;Building+the+Future+with+AI" />
 
 <img src="https://komarev.com/ghpvc/?username=pinsarasasika&label=Visitors&color=0e75b6&style=flat" />
 
